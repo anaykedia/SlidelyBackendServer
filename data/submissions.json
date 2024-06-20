@@ -1,0 +1,16 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "1234567890",
+    "github_link": "https://github.com/johndoe",
+    "stopwatch_time": "00:01:23"
+  },
+  {
+    "name": "donald trump",
+    "email": "mickey@om.com",
+    "phone": "8973139080",
+    "github_link": "limk",
+    "stopwatch_time": "00:00:00"
+  }
+]
